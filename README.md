@@ -1,10 +1,13 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+ A bot. Offered by github learning lab 😜
 
 ## What it does
 
-FEATURES PLACEHOLDER
+This app can do all the things listed below just for you! 
+- Teach new users how to interact with github
+- Do automated stuffs
+- Give helpful instructions
 
 ## Getting started
 
